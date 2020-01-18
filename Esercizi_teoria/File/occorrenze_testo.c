@@ -1,4 +1,4 @@
-//Conta le occorrenze delle 26 lettere minuscole dell'alfabeto, ignorando gli altri caratteri
+//Conta le occorrenze delle 26 lettere minuscole dell'alfabeto, ignorando gli altri caratteri.
 #include<stdio.h>
 
 //Array per contare le occorrenze delle lettere
