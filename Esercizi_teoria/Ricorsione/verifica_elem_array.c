@@ -7,7 +7,7 @@ int array[N]={0,1,2,3,4,5,6,7,8,9};
 
 int verify(int *array, int val, int k){
   //Caso base
-  if (array[k]==val && k<N) {
+  if (array[k]==val && k==N) {
     return 1;
   }
   //Caso termine array
